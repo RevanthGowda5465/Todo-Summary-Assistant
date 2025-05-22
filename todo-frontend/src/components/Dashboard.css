@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #43cea2, #185a9d);
+  height: 100vh;
+}
+
+.dashboard-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 60px;
+  height: 100vh;
+}
+
+.dashboard-card {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  width: auto;
+}
+
+.dashboard-title {
+  margin-bottom: 24px;
+  font-size: 24px;
+  color: #333;
+  text-align: center;
+}
+
+.error-message {
+  color: red;
+  font-size: 16px;
+  text-align: center;
+}
+
+.loading-text {
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+}
