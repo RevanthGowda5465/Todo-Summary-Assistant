@@ -122,6 +122,9 @@ MYSQL_PASSWORD=yourpassword
 
 **🖼️ Screenshots**
 
+![Screenshot 2025-05-23 073013](https://github.com/user-attachments/assets/9ec68082-475c-4aff-a11f-86d13fdc40c9)
+![Screenshot 2025-05-23 073034](https://github.com/user-attachments/assets/9e42a920-7b9b-4a6e-8a78-7ddbbbd094ab)
+![Screenshot 2025-05-23 073714](https://github.com/user-attachments/assets/b4cbd0cf-bbbf-47df-b285-b7d6becb4954)
 
 
 **🧠 Known Issues**
