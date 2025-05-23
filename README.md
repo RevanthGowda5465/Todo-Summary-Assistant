@@ -120,7 +120,7 @@ MYSQL_URL=jdbc:mysql://localhost:3306/ToDo
 MYSQL_USERNAME=root
 MYSQL_PASSWORD=yourpassword
 
-**🖼️ Optional: Screenshots**
+**🖼️ Screenshots**
 
 
 
